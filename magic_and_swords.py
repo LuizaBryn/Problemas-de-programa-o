@@ -12,4 +12,7 @@ dict_lv3 = dict(zip(magias, lv3))
 
 for i in range(t):
     w, h, x, y = map(int, input().split())
-    print(w, dict_dano['fire'])
+    magia, nivel, cx, cy = input().split()
+
+    if cx >= x and cx <= w and cy >= y and cy <= h:
+        ...
