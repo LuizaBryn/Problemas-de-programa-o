@@ -3,7 +3,7 @@ Diversos códigos envolvendo questões de programação (questões encontradas e
 
 # Questões presentes neste repositório
 
-1.**bazinga.py - Bazinga! (Maratona UnB de Programação 2014)**
+1. **bazinga.py - Bazinga! (Maratona UnB de Programação 2014)**
 
 No oitavo episodio da segunda temporada do seriado The Big Bang Theory, The Lizard-Spock Expansion, Sheldon e Raj discutem qual dos dois é o melhor: o filme Saturn 3 ou a série Deep Space 9. 
 A sugestão de Raj para a resolução do impasse é uma disputa de Pedra-Papel-Tesoura. Contudo, Sheldon argumenta que, se as partes envolvidas se conhecem, entre 75% e 80% das disputas de Pedra-Papel-Tesoura terminam empatadas, e então sugere o Pedra-Papel-Tesoura-Lagarto-Spock.
@@ -32,7 +32,7 @@ As escolha possíveis são as personagens do jogo: pedra, papel, tesoura, lagart
 Saida
 Para cada caso de teste deverá ser impressa a mensagem "Caso #t: R", onde t é o número do caso de teste (cuja contagem se inicia no número um) e R é uma das três reações possíveis de Sheldon: "Bazinga!", "Raj trapaceou!", ou "De novo!".
 
-2.**magic_and_swords.py - Bazinga! (Maratona UnB/CIC de Programação 2015)**
+2. **magic_and_swords.py - Bazinga! (Maratona UnB/CIC de Programação 2015)**
 
 No tower defense Magic and Sword, o jogador pode lançar magias de área para derrotar as unidades inimigas. As magias são elementais: fogo, água, ar e terra, e a região afetada é determinada por um círculo cujo raio depende do nível da magia.
 
